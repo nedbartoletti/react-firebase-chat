@@ -39,3 +39,5 @@ const useAuthStore = create((set) => ({
   setLoading: (loading) => set({ loading }),
   setError: (error) => set({ error })
 }));
+
+export default useAuthStore
