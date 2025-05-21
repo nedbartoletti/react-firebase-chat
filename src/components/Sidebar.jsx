@@ -76,3 +76,5 @@ const Sidebar = ({ onSelectContact }) => {
     </div>
   );
 };
+
+export default Sidebar

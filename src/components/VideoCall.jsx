@@ -141,3 +141,5 @@ const VideoCall = ({ contactId, onEndCall }) => {
     </div>
   );
 };
+
+export default VideoCall
